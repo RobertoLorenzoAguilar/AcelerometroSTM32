@@ -1,6 +1,7 @@
 # Sistema de Medición de Tiempo para Movimiento Mecánico
 
-![Diagrama de Hardware](https://via.placeholder.com/400x200?text=Ensamblado+Físico+del+Sistema)
+![image](https://github.com/user-attachments/assets/e328f309-7885-4ee9-ad4e-5c24fae3ee16)
+
 
 Sistema embebido para analizar el movimiento angular de una barra rígida acoplada a un motor paso a paso, implementando sensores ópticos y acelerómetro para medición precisa.
 
