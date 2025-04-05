@@ -32,7 +32,8 @@ Desarrollar un sistema de medición de tiempo para analizar el movimiento de una
 ## 📋 Configuración
 
 ### Diagrama de Conexiones
-![Esquema de conexiones](https://via.placeholder.com/600x400?text=Diagrama+de+Conexiones)
+![image](https://github.com/user-attachments/assets/a62b4654-b644-4c03-b716-319b945ed7a6)
+
 
 ### Pines STM32
 | Función | Pin | Configuración |
