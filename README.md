@@ -51,3 +51,25 @@ Desarrollar un sistema de medición de tiempo para analizar el movimiento de una
 3. MPU6050 registra ángulo en tiempo real
 4. Timer mide duración del movimiento
 5. Datos enviados por UART (115200 bauds)
+
+## ⚙️ Configuración Minicom
+
+# MacOS (Homebrew)
+
+brew install minicom
+Comando Básico Ubicar Puerto del STM32 Board
+ls /dev/cu.*
+bash
+Copy
+minicom -D /dev/tty.usbmodem1112203 -b 115200
+
+![image](https://github.com/user-attachments/assets/dac0bf5f-17c0-4c7a-afdd-6fe893394b40)
+
+
+# Modo SUDO para abrir STM32CUBEIDE
+sudo "/Applications/STM32CubeIDE.app/Contents/MacOS/STM32CubeIDE"
+
+
+
+
+
