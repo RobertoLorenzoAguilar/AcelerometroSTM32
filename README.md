@@ -49,8 +49,3 @@ Desarrollar un sistema de medición de tiempo para analizar el movimiento de una
 3. MPU6050 registra ángulo en tiempo real
 4. Timer mide duración del movimiento
 5. Datos enviados por UART (115200 bauds)
-
-```c
-// Ejemplo de lectura MPU6050
-MPU6050_Get_Accel_Scale(&myAccelScaled);
-ANG[0] = atan(myAccelScaled.x/sqrt(pow(myAccelScaled.y,2)+pow(myAccelScaled.z,2))) * RAD_Deg;
