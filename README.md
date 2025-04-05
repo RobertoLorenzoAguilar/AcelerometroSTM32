@@ -55,13 +55,9 @@ Desarrollar un sistema de medición de tiempo para analizar el movimiento de una
 ## ⚙️ Configuración Minicom
 
 # MacOS (Homebrew)
-
-brew install minicom
-Comando Básico Ubicar Puerto del STM32 Board
-ls /dev/cu.*
-bash
-Copy
-minicom -D /dev/tty.usbmodem1112203 -b 115200
+- brew install minicom
+- ls /dev/cu.*
+- minicom -D /dev/tty.usbmodem1112203 -b 115200
 
 ![image](https://github.com/user-attachments/assets/dac0bf5f-17c0-4c7a-afdd-6fe893394b40)
 
