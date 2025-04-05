@@ -68,6 +68,18 @@ Desarrollar un sistema de medición de tiempo para analizar el movimiento de una
 sudo "/Applications/STM32CubeIDE.app/Contents/MacOS/STM32CubeIDE"
 
 
+**Referencia:**
+
+- **Título del repositorio**: STM32-Tutorials  
+- **Autor**: MYaqoobEmbedded  
+- **Tutorial específico**: Tutorial 35 - MPU 6050 IMU Module  
+- **URL del repositorio**: [https://github.com/MYaqoobEmbedded/STM32-Tutorials](https://github.com/MYaqoobEmbedded/STM32-Tutorials)  
+- **URL específica del tutorial**: [https://github.com/MYaqoobEmbedded/STM32-Tutorials/tree/master/Tutorial%2035%20-%20MPU6050%20IMU%20Module](https://github.com/MYaqoobEmbedded/STM32-Tutorials/tree/master/Tutorial%2035%20-%20MPU6050%20IMU%20Module)  
+
+**Nota:** Aunque utilizamos la librería del repositorio para el sensor MPU6050 como base, el desarrollo de nuestra práctica integradora se apoyó en un archivo `main.c` adaptado con funcionalidades adicionales desarrolladas por el Dr. Víctor Hugo Benítez, así como en otros recursos y prácticas realizadas en las calses de sistemas embebidos.
+
+
+
 
 
 
